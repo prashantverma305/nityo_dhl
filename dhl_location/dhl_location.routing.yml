@@ -1,0 +1,7 @@
+dhl_location.content:
+  path: 'dhl_location' 
+  defaults: 
+    _form: 'Drupal\dhl_location\Form\DHLForm' 
+    _title: 'DHL Check Location'
+  requirements: 
+    _permission: 'access content'

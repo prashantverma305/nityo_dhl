@@ -1,0 +1,5 @@
+name: DHL Location
+description: Drupal module that will interact with the DHL API.
+type: module
+package: custom
+core_version_requirement: ^10
